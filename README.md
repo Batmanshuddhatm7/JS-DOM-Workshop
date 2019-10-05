@@ -13,6 +13,6 @@
  **Contributors:**
  
  - Lakshya Khera ( [lakshyabatman](https://github.com/lakshyabatman) )
- - Shubham Dubey [enter link description here](#)
+ - Shubham Dubey
  - Simran [Sonal240](https://github.com/Sonal240)
 
